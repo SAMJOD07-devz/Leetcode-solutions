@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SAMJOD07-devz/Leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Array
+|  |
+| ------- |
+| [0137-single-number-ii](https://github.com/SAMJOD07-devz/Leetcode-solutions/tree/master/0137-single-number-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0137-single-number-ii](https://github.com/SAMJOD07-devz/Leetcode-solutions/tree/master/0137-single-number-ii) |
 <!---LeetCode Topics End-->
